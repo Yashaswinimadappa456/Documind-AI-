@@ -1,0 +1,6 @@
+{
+  "name": "DocuMind AI",
+  "description": "Intelligent AI Document Assistant using Retrieval-Augmented Generation (RAG) with Google Gemini and LangChain.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
